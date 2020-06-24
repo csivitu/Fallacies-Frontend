@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="sub.css" />
+        <link rel="shortcut icon" type="image/png" href="favicon.png" />
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.min.js"></script>
+        <title>FALLACIES</title>
+    </head>
+    <body onload="loaded()">
+        <div id="loader"><img src="loading.gif" alt="Loading..." class="loading-gif"></div>
+        <div class="container">
+            <a href="https://www.csivit.com/"><img src="CSIDark(saturated).png" alt="CSI LOGO" class="csilogo" /></a>
+            <img src="title.png" alt="Fallacies" class="logo" />
+            <form class="game-form" id="form">
+                <div class="form__group form__group-msg">
+                    <h2 class="message"><%= message %></h2>
+                </div>
+                <div class="form__group form__group-end">
+                    <input type="text" class="form__input" placeholder="Enter Answer" id="answer" required>
+                    <button href="#" class="btn-submit">Submit</button>
+                </div>
+            </form>
+            <button class="btn-signout" onclick="logoutAjax()">Log Out</button>
+            <button class="btn-leaderboard">LEADERBOARD</button>
+        </div>
+        
+
+        <script>
+        if(document.getElementById("loader")) document.querySelector(".container").style.display = 'none';
+        function loaded() {
+            document.getElementById("loader").style.display = "none";
+            document.querySelector(".container").style.display = "flex";
+        }
+        </script>
+        <script src=".../static/js/submission.js"></script>
+    </body>
+</html>

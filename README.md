@@ -8,10 +8,10 @@
     <img src="https://csivit.com/images/favicon.png" alt="Logo" width="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">FALLACIES</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    A CSI event with clues related to conspiracy theories scattered over instagram
     <br />
     <a href="https://github.com/csivitu/repo"><strong>Explore the docs »</strong></a>
     <br />
@@ -54,9 +54,9 @@ Here's a blank template to get started:
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [HTML]()
+* [CSS]()
+* [JS]()
 
 
 
@@ -68,20 +68,14 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
+* Any web browser (to view the pages)
+
 
 ### Installation
  
 1. Clone the repo
 ```sh
-git clone https://github.com/github_username/repo.git
-```
-2. Install NPM packages
-```sh
-npm install
+git clone https://github.com/csivitu/Fallacies-Frontend.git
 ```
 
 
@@ -89,9 +83,17 @@ npm install
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+This is a simple representation of the structure of the frontend of the fallacies. This code in this repo doesnt not support api calls to the Fallacies-Backend. There is no form validation and you can wander through the pages just by clicking buttons without filling any forms.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+The repo is hosted to the Login page. The LOG IN button leads to the Homepage and the Sign Up button at bottom leads to the Sign Up page.
+
+The SIGN UP button on the Sign up page leads to the Login page
+
+The Homepage had two buttons PLAY and LEADERBOARD. The PLAY button leads to the gamepage and the Leaderboard button to the leaderboard page. The LOG OUT button at bottom left takes back to the Login page
+
+The Gamepage contains the instructions to process and the account names along with a field to submit the answer. Gamepage has a LEADERBOARD button at bottom right which takes to the Leaderboard page. The LOG OUT button at bottom left takes back to the Login page
+
+The Leaderboard displays the leaderboard and also has a SUBMISSIONS button to go back to the gamepage.
 
 
 
