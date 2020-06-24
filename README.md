@@ -45,7 +45,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img align="middle" src="./static/img/loading.gif" alt="FALLACIES"/>
+<p align="center">
+  <img src="./static/img/loading.gif" alt="FALLACIES" height="300"/>
+</p>
+
 
 
 Fallacies is an online cryptic hunt where players hunt for clues to deliver an answer. The cryptic quiz is based on the theme of conspiracy theories . The questions are  framed such that the participants will not only require their knowledge but also reasoning and resourcefulness on the internet.
