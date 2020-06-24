@@ -45,18 +45,17 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+(../static/img/loading.gif)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
+# FALLACIES
+Fallacies is an online cryptic hunt where players hunt for clues to deliver an answer. The cryptic quiz is based on the theme of conspiracy theories . The questions are  framed such that the participants will not only require their knowledge but also reasoning and resourcefulness on the internet.
 
 
 ### Built With
 
-* [HTML]()
-* [CSS]()
-* [JS]()
+* HTML
+* CSS
+* JS
 
 
 
