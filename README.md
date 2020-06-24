@@ -13,14 +13,14 @@
   <p align="center">
     A CSI event with clues related to conspiracy theories scattered over instagram
     <br />
-    <a href="https://github.com/csivitu/repo"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Subham-Panda/Fallacies-Frontend"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/csivitu/repo">View Demo</a>
+    <a href="https://github.com/Subham-Panda/Fallacies-Frontend">View Demo</a>
     ·
-    <a href="https://github.com/csivitu/repo/issues">Report Bug</a>
+    <a href="https://github.com/Subham-Panda/Fallacies-Frontend/issues">Report Bug</a>
     ·
-    <a href="https://github.com/csivitu/repo/issues">Request Feature</a>
+    <a href="https://github.com/Subham-Panda/Fallacies-Frontend/issues">Request Feature</a>
   </p>
 </p>
 
@@ -102,7 +102,7 @@ The Leaderboard displays the leaderboard and also has a SUBMISSIONS button to go
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Subham-Panda/Fallacies-Frontend/issues) for a list of proposed features (and known issues).
 
 
 
@@ -132,4 +132,4 @@ Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more informati
 [csivitu-shield]: https://img.shields.io/badge/csivitu-csivitu-blue
 [csivitu-url]: https://csivit.com
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/csivitu/repo/issues
+[issues-url]: https://github.com/Subham-Panda/Fallacies-Frontend/issues
